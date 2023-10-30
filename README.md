@@ -1,3 +1,5 @@
+
+
 # DjangoAssigment
 Folder Name -> Ecommerse_Folders
 Project Name -> crud_project
